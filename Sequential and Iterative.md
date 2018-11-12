@@ -34,7 +34,7 @@ Once the product requirements are confirmed, the company must now set out to cre
 In this phase the architectural details are designed, most of the time more than one technical approach is proposed and then based on these technical and financial feasibilities the final decision is made on what approach is to be made. The system design is then broken down into modules which are composed of different functionalities also known as High Level Design. 
 * Module Design:
 This phase is used to specify the detailed internal designs for the system modules, this is known as Low Level Design. It is crucial that the design is compatible with the other modules that are located in the system architecure as well as the other external systems. These tests are a neccessary part of any process development process and help to eliminate most of the faults and errors at an early stage.
-# Validation Phases
+
 The Validation Phases are described below:
 * Unit Testing:
 These tests are designed in the module design phase and are executed on the code during the validation phase. Unit testing is the testing that occurs at code level which can help to eliminate bugs at an early stage, but this doesn't ensure that all of the problems are uncovered.
@@ -45,4 +45,20 @@ System testing is associated with the system design phase. This phase checks the
 * Acceptance Testing:
 This is linked with the business requirement analysis phase and it revolves around the product being tested in a user environment. These tests help uncover any problems that are compatability issues with other programs in the user environment. 
 # Iterative
-With the Iterative model, the process usually begins with the implementation of a small range of requirements and then enhances these iteratively as the development cycle progresses until the software is ready to be deployed.
+With the Iterative model, the process usually begins with the implementation of a small range of requirements and then enhances these iteratively as the development cycle progresses until the software is ready to be deployed. The key thing to remember with the iterative model is that it does not attempt to start with a full spec of requirements, alternatively it only develops certain parts of the software and they then review it in order to reveal any other requirements that can be added. The process is repeated at te end of each new iteration in order for a new version to be created.
+
+![](https://www.tutorialspoint.com/sdlc/images/sdlc_iterative_model.jpg)
+# Pros and Cons
+The advantages of the iterative model is:
+* Functionality can be developed early
+* The results are able to be obtained quickly as well as frequently
+* Progress can be measured to ensure the project is moving at a reasonable pace
+* Costs less for changes to be implemented as they can be added in the next iteration.
+* Better risk analysis
+* Suited for large projects
+
+The disadvantages of the iterative model are
+* More resources may be required
+* High levels of management required
+* End date of project is not known which could lead to increased costs
+* Highly skilled resources needed for the risk analysis

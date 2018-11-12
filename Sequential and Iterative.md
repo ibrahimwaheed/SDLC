@@ -62,3 +62,22 @@ The disadvantages of the iterative model are
 * High levels of management required
 * End date of project is not known which could lead to increased costs
 * Highly skilled resources needed for the risk analysis
+
+# Agile Model
+The Agile Model is an amalgamation of both the iterative and incremental models. This model concentrates on providing customer satisfaction by providing the customer with rapid delivery of the product whilst also tailoring it to meet any new requirements that have been supplied. The Agile method works by separating the product into smaller incremental builds which then enables the builds to be produced in iterations. These iterations can range from one - three weeks of development time, this requires multiple teams to work simultaneoulsy on various areas.
+The core principle of the Agile method is that all projects need to be approached differently and that the existing methods need to be tailored in order to ensure the project is achieving its potential.
+![](https://www.tutorialspoint.com/sdlc/images/sdlc_agile_model.jpg)
+# Pros and Cons
+The Pros of the Agile method is that:
+* It's a realistic way of approaching software develpoment.
+* Encourages teamwork and collaboration.
+* Rapid development.
+* Minimal resources needed.
+* Suitable for either fixed or evolving requirements.
+* Ease of management.
+* Minimal planning required.
+* Flexible for developers.
+
+The Cons of the Agile method are:
+* It depends heavily on being iteractive with the customer, which leads to problems if they dont have a clear vision.
+* Lack of documentation means there is high individual dependency.

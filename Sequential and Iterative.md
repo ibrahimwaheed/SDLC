@@ -81,3 +81,10 @@ The Pros of the Agile method is that:
 The Cons of the Agile method are:
 * It depends heavily on being iteractive with the customer, which leads to problems if they dont have a clear vision.
 * Lack of documentation means there is high individual dependency.
+# Risk manangement in Spiral model
+The spiral model is a combination of sequential and iterative methods. The major difference of th spiral model is that it utilises a risk-driven approach to developing software, because of this it integrates many of the strengths that are found in the other models.
+The first thing that needs to be done is to determine the requirements that the client would like, this includes important information such as the cost, the resources needed and the system requirements.
+The next thing that happens is that the company then identifies any risks that may occur and then creates plans on how to avoid these or if needed how to overcome them. After this a prototype is created which is scaled down to show what kind of features and functions could be included in the final version. 
+The company then sets out to make the first iteration of the product in order to meet the brief which is then sent off to the client to review to which they send it back with feedback on whether it is to their specification and if not they repeat the steps until the client is satisfied witht the product.
+The final phase is the review of the product, this is when the client reviews the product in order to give feedback on what has been created, this phase is also when the client is able to see the kind of risks that have been identified and how these have been monitored. Once the client is happy with the product they are then able to release it to be used by consumers.
+![](https://cdncontribute.geeksforgeeks.org/wp-content/uploads/spiral-1-1024x945.jpg)
